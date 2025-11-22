@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a financial economist researching banking, credit markets, and empirical asset pricing.
+I am a quantitative researcher in Citadel LLC's Equity Quantitative Research group. Previously, I spent over a decade at the Federal Reserve Bank of New York researching banking, financial intermediation, and household finance. This page is a public repository of my academic research, blog posts, and code bases. 
