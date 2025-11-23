@@ -228,6 +228,61 @@ ninja.data = [{
             window.open("https://libertystreeteconomics.newyorkfed.org/2016/05/did-the-supervisory-guidance-on-leveraged-lending-work/", "_blank");
           
         },
+      },{id: "post-how-does-supervision-affect-banks",
+        
+          title: 'How Does Supervision Affect Banks? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Research showing increased supervisory attention reduces bank riskiness without impacting earnings or growth",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2016/04/how-does-supervision-affect-banks/", "_blank");
+          
+        },
+      },{id: "post-the-effect-of-fed-funds-rate-hikes-on-consumer-borrowing-costs",
+        
+          title: 'The Effect of Fed Funds Rate Hikes on Consumer Borrowing Costs <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Analyzing how federal funds rate changes affect consumer lending rates, showing loan maturity matters more than credit quality",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2015/12/the-effect-of-fed-funds-rate-hikes-on-consumer-borrowing-costs/", "_blank");
+          
+        },
+      },{id: "post-what-drives-buyout-booms-and-busts",
+        
+          title: 'What Drives Buyout Booms and Busts? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Examining how overall cost of capital, rather than debt alone, drives leveraged buyout activity cycles",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2015/06/what-drives-buyout-booms-and-bust/", "_blank");
+          
+        },
+      },{id: "post-why-do-banks-keep-all-that-39-fracking-39-money",
+        
+          title: 'Why Do Banks Keep All That &#39;Fracking&#39; Money? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Examining why banks in energy regions reduced lending allocations and increased liquid asset holdings during the financial crisis",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2014/12/why-do-banks-keep-all-that-fracking-money/", "_blank");
+          
+        },
+      },{id: "post-what-do-banks-do-with-all-that-39-fracking-39-money",
+        
+          title: 'What Do Banks Do with All That &#39;Fracking&#39; Money? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How deposit inflows from oil and gas royalty payments affect bank lending, with banks allocating 25% to lending and 75% to liquid assets",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2014/12/what-do-banks-do-with-all-that-fracking-money/", "_blank");
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
