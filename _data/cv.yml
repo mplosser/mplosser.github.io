@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: MBA, Ph.D. in Economics and Finance
+    - title: Ph.D. in Economics and Finance & MBA
       institution: University of Chicago, Booth School of Business
       year: 2012
     - title: A.B. in Economics
@@ -29,50 +29,61 @@
       institution: Federal Reserve Bank of New York, Research and Statistics Group
       year: 2010 - 2024
       description:
-        - Research: Financial intermediation, household finance, financial stability, and monetary policy
-        - Policy Contributions: Stress test model development (PPNR), financial briefings coordinator, financial stability assessment
+        - "Research: Financial intermediation, household finance, financial stability, and monetary policy"
+        - "Policy Contributions: Stress test model development (PPNR), financial briefings coordinator, financial stability assessment"
   #        - Studies on mortgage lending, fintech, and consumer credit markets
 
     - title: Visiting Lecturer
       institution: Princeton University
       year: 2023-2025
       description:
-        - Taught Corporate Finance and Financial Accounting for Master in Finance program
+        - Taught Corporate Finance and Financial Accounting for the Master in Finance program
 
-- title: Selected Publications
-  type: time_table
-  contents:
-    - title: "Bank Economic Capital"
-      year: 2025
-      description: Federal Reserve Bank of New York Staff Report No. 1144 (with Beverly Hirtle)
+    - title: Investment Associate - Healthcare
+      institution: Scout Capital Management
+      year: 2003 - 2006
+      description:
 
-    - title: "The Cost of Bank Regulatory Capital"
-      year: 2024
-      description: Review of Financial Studies (with João A. C. Santos)
+    - title: Investment Banking Analyst
+      institution: J.P. Morgan Securities
+      year: 2001 - 2003
+      description:
+        - Mergers & Acquisitions, Consumer/Healthcare
 
-    - title: "Import Competition and Household Debt"
-      year: 2022
-      description: Journal of Finance (with Jean-Noël Barrot, Erik Loualiche, and Julien Sauvagnat)
-
-    - title: "Bank Liquidity Provision across the Firm Size Distribution"
-      year: 2022
-      description: Journal of Financial Economics (with Gabriel Chodorow-Reich, Olivier Darmouni, and Stephan Luck)
-
-    - title: "The Impact of Supervision on Bank Performance"
-      year: 2020
-      description: Journal of Finance (with Beverly Hirtle and Anna Kovner)
-
-    - title: "The Role of Technology in Mortgage Lending"
-      year: 2019
-      description: Review of Financial Studies (with Andreas Fuster, Philipp Schnabl, and James Vickery)
-
-    - title: "Banks' Incentives and Inconsistent Risk Models"
-      year: 2018
-      description: Review of Financial Studies (with João A. C. Santos)
-
-    - title: "Buyout Activity: The Impact of Aggregate Discount Rates"
-      year: 2017
-      description: Journal of Finance (with Valentin Haddad and Erik Loualiche)
+# - title: Selected Publications
+#   type: time_table
+#   contents:
+#     - title: "Bank Economic Capital"
+#       year: 2025
+#       description: Federal Reserve Bank of New York Staff Report No. 1144 (with Beverly Hirtle)
+#
+#     - title: "The Cost of Bank Regulatory Capital"
+#       year: 2024
+#       description: Review of Financial Studies (with João A. C. Santos)
+#
+#     - title: "Import Competition and Household Debt"
+#       year: 2022
+#       description: Journal of Finance (with Jean-Noël Barrot, Erik Loualiche, and Julien Sauvagnat)
+#
+#     - title: "Bank Liquidity Provision across the Firm Size Distribution"
+#       year: 2022
+#       description: Journal of Financial Economics (with Gabriel Chodorow-Reich, Olivier Darmouni, and Stephan Luck)
+#
+#     - title: "The Impact of Supervision on Bank Performance"
+#       year: 2020
+#       description: Journal of Finance (with Beverly Hirtle and Anna Kovner)
+#
+#     - title: "The Role of Technology in Mortgage Lending"
+#       year: 2019
+#       description: Review of Financial Studies (with Andreas Fuster, Philipp Schnabl, and James Vickery)
+#
+#     - title: "Banks' Incentives and Inconsistent Risk Models"
+#       year: 2018
+#       description: Review of Financial Studies (with João A. C. Santos)
+#
+#     - title: "Buyout Activity: The Impact of Aggregate Discount Rates"
+#       year: 2017
+#       description: Journal of Finance (with Valentin Haddad and Erik Loualiche)
 
 # - title: Research Interests
 #   type: list
