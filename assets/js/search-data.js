@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-reserves-and-where-to-find-them",
+        },{id: "post-economic-capital-a-better-measure-of-bank-failure",
+        
+          title: 'Economic Capital: A Better Measure of Bank Failure? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Introducing a new solvency metric that identifies failing banks earlier and more accurately than traditional measures",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2025/11/economic-capital-a-better-measure-of-bank-failure/", "_blank");
+          
+        },
+      },{id: "post-economic-capital-a-new-measure-of-bank-solvency",
+        
+          title: 'Economic Capital: A New Measure of Bank Solvency <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "A novel solvency metric incorporating interest rate changes, credit spreads, and deposit stability risks",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2025/09/economic-capital-a-new-measure-of-bank-solvency/", "_blank");
+          
+        },
+      },{id: "post-reserves-and-where-to-find-them",
         
           title: 'Reserves and Where to Find Them <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
