@@ -3,13 +3,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-readme",
+    title: "readme",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-longform",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-longform",
           title: "longform",
           description: "Research papers and working papers in reversed chronological order.",
           section: "Navigation",
@@ -23,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/shortform/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
+        },{id: "nav-repository",
+          title: "repository",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/repository/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-freeform",
+          title: "freeform",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/freeform/";
           },
         },{id: "post-economic-capital-a-better-measure-of-bank-failure",
         
