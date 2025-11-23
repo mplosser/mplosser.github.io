@@ -206,6 +206,28 @@ ninja.data = [{
             window.open("https://cepr.org/voxeu/columns/international-trade-and-household-debt-how-import-competition-china-helped-fuel", "_blank");
           
         },
+      },{id: "post-buyout-activity-the-impact-of-aggregate-discount-rates",
+        
+          title: 'Buyout Activity: The Impact of Aggregate Discount Rates <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Examining how market risk premiums drive leveraged buyout cycles, showing common changes in equity and debt costs explain booms and busts",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://corpgov.law.harvard.edu/2016/08/30/buyout-activity-the-impact-of-aggregate-discount-rates/", "_blank");
+          
+        },
+      },{id: "post-did-the-supervisory-guidance-on-leveraged-lending-work",
+        
+          title: 'Did the Supervisory Guidance on Leveraged Lending Work? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Analyzing the effectiveness of 2013 leveraged lending guidance, finding large banks reduced activity while nonbanks increased",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2016/05/did-the-supervisory-guidance-on-leveraged-lending-work/", "_blank");
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
