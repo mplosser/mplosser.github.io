@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-shortform",
           title: "shortform",
-          description: "",
+          description: "Blog posts and shorter writings.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/shortform/index.html";
