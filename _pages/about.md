@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a quantitative researcher in Citadel LLC's Equity Quantitative Research group. Previously, I spent over a decade at the Federal Reserve Bank of New York researching banking, financial intermediation, household finance, financial stability, and monetary policy. My primary policy contributions include coordinating financial briefings to the NY Fed president and development of supervisory stress testing models. I have taught corporate finance at Princeton University as a Visiting Lecturer.
+I am a quantitative researcher in Citadel LLC's Equity Quantitative Research group. Previously, I spent over a decade at the Federal Reserve Bank of New York researching banking, financial intermediation, household finance, financial stability, and monetary policy. My policy contributionsroles included coordinating financial briefings to the NY Fed president and development of supervisory stress testing models. I have taught corporate finance at Princeton University as a Visiting Lecturer.
 
 This page provides access to my academic research, blog posts, and code (soon!). 
 
