@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: Academic papers and working papers in reversed chronological order.
+permalink: /long-form/
+title: long-form
+description: Research papers and working papers in reversed chronological order.
 nav: true
 nav_order: 2
 ---

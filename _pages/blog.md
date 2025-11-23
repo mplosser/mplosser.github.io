@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /short-form/
+title: short-form
 nav: true
 nav_order: 3
 pagination:
