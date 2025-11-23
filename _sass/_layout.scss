@@ -38,6 +38,19 @@ body.sticky-bottom-footer {
   }
 }
 
+// Mobile-specific profile styling
+@media (max-width: 576px) {
+  .profile {
+    float: none !important;
+    width: 50% !important;
+    margin: 0 auto 1rem auto;
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
