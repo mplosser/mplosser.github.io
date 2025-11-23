@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Blog posts and shorter writings.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/shortform/index.html";
+            window.location.href = "/shortform/";
           },
         },{id: "nav-cv",
           title: "cv",
