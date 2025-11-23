@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /short-form/
-title: short-form
+permalink: /shortform/
+title: shortform
 nav: true
 nav_order: 3
 pagination:

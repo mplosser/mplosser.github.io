@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /long-form/
-title: long-form
+permalink: /longform/
+title: longform
 description: Research papers and working papers in reversed chronological order.
 nav: true
 nav_order: 2
