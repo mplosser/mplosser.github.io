@@ -28,8 +28,8 @@ I am a quantitative researcher in Citadel LLC's Equity Quantitative Research gro
 
 This page provides access to my research and code.
 
-- [longform](longform/): my publications and working papers
-- [shortform](shortform/): blogs and other bitesize content
+- [longform](longform/): publications and working papers
+- [shortform](shortform/): blogs and bitesize content
 - [repository](repository/): code and data
 - [freeform](freeform/): miscellany
 
