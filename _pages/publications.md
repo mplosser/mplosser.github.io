@@ -4,7 +4,7 @@ permalink: /longform/
 title: longform
 description: Research papers and working papers in reversed chronological order.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->

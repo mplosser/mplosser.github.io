@@ -4,7 +4,7 @@ permalink: /shortform/
 title: shortform
 description: Blog posts and shorter writings.
 nav: true
-nav_order: 3
+nav_order: 4
 pagination:
   enabled: false
 ---
