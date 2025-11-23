@@ -8,4 +8,4 @@ cv_pdf: CV_Plosser.pdf
 description:
 ---
 
-You can download my full CV here: [CV_Plosser.pdf](/assets/pdf/CV_Plosser.pdf)
+You can download my full CV here: [curriculum vitae](/assets/pdf/CV_Plosser.pdf)
