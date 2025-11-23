@@ -41,7 +41,7 @@ body.sticky-bottom-footer {
 // Desktop - make profile picture smaller
 @media (min-width: 576px) {
   .profile {
-    width: 25% !important;
+    width: 20% !important;
   }
 }
 
@@ -49,7 +49,7 @@ body.sticky-bottom-footer {
 @media (max-width: 576px) {
   .profile {
     float: none !important;
-    width: 50% !important;
+    width: 40% !important;
     margin: 0 auto 1rem auto;
 
     img {
