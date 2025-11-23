@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a quantitative researcher in Citadel LLC's Equity Quantitative Research group. Previously, I spent over a decade at the Federal Reserve Bank of New York researching banking, financial intermediation, household finance, financial stability, and monetary policy. My policy roles included coordinating financial briefings to the NY Fed president, organizing the Financial Advisory Roundtable, and developing stress testing models. I have taught corporate finance at Princeton University as a Visiting Lecturer.
+I am a quantitative researcher in Citadel's Equity Quantitative Research group. Previously, I spent over a decade at the Federal Reserve Bank of New York researching banking, financial intermediation, household finance, financial stability, and monetary policy. My policy roles included coordinating financial briefings to the NY Fed president, organizing the Financial Advisory Roundtable, and developing stress testing models. I have taught corporate finance at Princeton University as a Visiting Lecturer.
 
 This page provides access to my research and code.
 
@@ -38,7 +38,6 @@ This page provides access to my research and code.
 ## Latest Work
 
 **[Bank Economic Capital](https://ssrn.com/abstract=5169886)** (with Beverly Hirtle)
-*Federal Reserve Bank of New York Staff Report No. 1144, March 2025 (Revised October 2025)*
+_Federal Reserve Bank of New York Staff Report No. 1144, March 2025 (Revised October 2025)_
 
-Conventional measures of bank solvency fail to account for liquidity risks posed by deposits. Using public regulatory data, we develop economic capital, a framework that jointly quantifies credit, liquidity, and market risk. Economic capital identifies banks that fail years in advance, including those in March 2023, while book capital deteriorates just before failure. Predictive power comes from valuing liabilities, which are elevated long before asset impairment. 
-
+Conventional measures of bank solvency fail to account for liquidity risks posed by deposits. Using public regulatory data, we develop economic capital, a framework that jointly quantifies credit, liquidity, and market risk. Economic capital identifies banks that fail years in advance, including those in March 2023, while book capital deteriorates just before failure. Predictive power comes from valuing liabilities, which are elevated long before asset impairment.

@@ -23,7 +23,7 @@
       institution: Citadel LLC, Equity Quantitative Research
       year: 2025 - present
       description:
-#        - Equity model research 
+    #        - Equity model research
 
     - title: Financial Research Advisor
       institution: Federal Reserve Bank of New York, Research and Statistics Group
@@ -31,7 +31,7 @@
       description:
         - "Research: Financial intermediation, household finance, and monetary policy"
         - "Policy Contributions: Stress test model development (PPNR), financial briefings coordinator, financial stability assessment"
-  #        - Studies on mortgage lending, fintech, and consumer credit markets
+    #        - Studies on mortgage lending, fintech, and consumer credit markets
 
     - title: Visiting Lecturer
       institution: Princeton University
@@ -49,7 +49,6 @@
       year: 2001 - 2003
       description:
         - Mergers & Acquisitions, Consumer/Healthcare
-
 # - title: Selected Publications
 #   type: time_table
 #   contents:

@@ -5,6 +5,7 @@ Personal academic website built with Jekyll and the al-folio theme, deployed on 
 ## Key Files for Modifying Content
 
 ### Pages
+
 - **`_pages/about.md`** - Home page (readme) with bio and site overview
 - **`_pages/publications.md`** - Longform page displaying publications from bibliography
 - **`_pages/blog.md`** - Shortform page with blog posts
@@ -13,6 +14,7 @@ Personal academic website built with Jekyll and the al-folio theme, deployed on 
 - **`_pages/freeform.md`** - Miscellaneous content page
 
 ### Content Data
+
 - **`_bibliography/papers.bib`** - BibTeX file with all publications (displayed on longform page)
 - **`_posts/`** - Blog post markdown files (displayed on shortform page)
   - Posts with `redirect:` field link to external content
@@ -20,11 +22,13 @@ Personal academic website built with Jekyll and the al-folio theme, deployed on 
 - **`_data/cv.yml`** - Structured CV data (education, experience)
 
 ### Assets
+
 - **`assets/pdf/CV_Plosser.pdf`** - PDF version of CV
 - **`assets/img/profile_photo.jpg`** - Profile photo
 - **`assets/json/resume.json.backup`** - JSON Resume format (currently not used)
 
 ### Styling
+
 - **`_sass/_layout.scss`** - Custom CSS overrides (e.g., mobile profile photo sizing)
 
 ## Navigation Structure
