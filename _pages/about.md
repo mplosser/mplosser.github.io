@@ -31,5 +31,14 @@ This page provides access to my research and code.
 - [longform](longform/): my publications and working papers
 - [shortform](shortform/): blogs and other bitesize content
 - [repository](repository/): code and data
-- [freeform](freeform/): miscellany 
+- [freeform](freeform/): miscellany
+
+---
+
+## Latest Work
+
+**[Bank Economic Capital](https://ssrn.com/abstract=5169886)** (with Beverly Hirtle)
+*Federal Reserve Bank of New York Staff Report No. 1144, March 2025 (Revised October 2025)*
+
+Conventional measures of bank solvency fail to account for liquidity risks posed by deposits. Using public regulatory data, we develop economic capital, a framework that jointly quantifies credit, liquidity, and market risk. Economic capital identifies banks that fail years in advance, including those in March 2023, while book capital deteriorates just before failure. Predictive power comes from valuing liabilities, which are elevated long before asset impairment. 
 
