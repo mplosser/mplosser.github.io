@@ -132,6 +132,17 @@ ninja.data = [{
             window.open("https://libertystreeteconomics.newyorkfed.org/2023/02/does-the-cra-increase-household-access-to-credit/", "_blank");
           
         },
+      },{id: "post-interest-rates-up-but-not-on-your-savings-account",
+        
+          title: 'Interest Rates Up, But Not on Your Savings Account <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Podcast appearance explaining why savings account interest rates lag Federal Reserve rate hikes and the concept of deposit betas",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.npr.org/2023/01/23/1150716029/the-fed-has-been-raising-interest-rates-why-then-are-savings-interest-rates-low", "_blank");
+          
+        },
       },{id: "post-how-do-deposit-rates-respond-to-monetary-policy",
         
           title: 'How Do Deposit Rates Respond to Monetary Policy? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
