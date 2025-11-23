@@ -140,6 +140,17 @@ ninja.data = [{
             window.open("https://libertystreeteconomics.newyorkfed.org/2021/03/who-pays-what-first-debt-prioritization-during-the-covid-pandemic/", "_blank");
           
         },
+      },{id: "post-weathering-the-storm-who-can-access-credit-in-a-pandemic",
+        
+          title: 'Weathering the Storm: Who Can Access Credit in a Pandemic? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Examining credit access disparities during COVID-19, showing large firms increased drawdowns while small businesses couldn&#39;t access pre-committed credit",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2020/10/weathering-the-storm-who-can-access-credit-in-a-pandemic/", "_blank");
+          
+        },
       },{id: "post-the-banking-industry-and-covid-19-lifeline-or-life-support",
         
           title: 'The Banking Industry and COVID‑19: Lifeline or Life Support? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -160,6 +171,39 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://libertystreeteconomics.newyorkfed.org/2020/04/how-does-supervision-affect-bank-performance-during-downturns/", "_blank");
+          
+        },
+      },{id: "post-analyzing-the-effects-of-cfpb-oversight",
+        
+          title: 'Analyzing the Effects of CFPB Oversight <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Examining how CFPB supervision affected mortgage lending, finding a de-risking effect rather than reduced credit supply",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2018/10/analyzing-the-effects-of-cfpb-oversight/", "_blank");
+          
+        },
+      },{id: "post-the-cost-of-regulatory-capital",
+        
+          title: 'The Cost of Regulatory Capital <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How capital regulations affect bank pricing, estimating banks&#39; willingness to pay to reduce regulatory capital requirements",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://libertystreeteconomics.newyorkfed.org/2018/10/the-cost-of-regulatory-capital/", "_blank");
+          
+        },
+      },{id: "post-international-trade-and-household-debt-how-import-competition-from-china-helped-fuel-the-credit-bubble",
+        
+          title: 'International Trade and Household Debt: How Import Competition from China Helped Fuel the... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Analyzing how import competition explains 30% of cross-regional variation in household debt growth during the 2000s",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://cepr.org/voxeu/columns/international-trade-and-household-debt-how-import-competition-china-helped-fuel", "_blank");
           
         },
       },{id: "books-the-godfather",
