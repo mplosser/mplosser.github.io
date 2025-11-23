@@ -9,26 +9,35 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Economics
-      institution: University of Pennsylvania
-      year: 2010
+    - title: MBA, Ph.D. in Economics and Finance
+      institution: University of Chicago, Booth School of Business
+      year: 2012
+    - title: A.B. in Economics
+      institution: Princeton University
+      year: 2001
 
 - title: Experience
   type: time_table
   contents:
     - title: Quantitative Researcher
       institution: Citadel LLC, Equity Quantitative Research
-      year: 2024 - present
+      year: 2025 - present
       description:
-        - Quantitative research in equity markets
+#        - Equity model research 
 
     - title: Financial Research Advisor
       institution: Federal Reserve Bank of New York, Research and Statistics Group
       year: 2010 - 2024
       description:
-        - Research on banking, financial intermediation, and household finance
-        - Analysis of bank supervision, regulation, and capital requirements
-        - Studies on mortgage lending, fintech, and consumer credit markets
+        - Research: Financial intermediation, household finance, financial stability, and monetary policy
+        - Policy Contributions: Stress test model development (PPNR), financial briefings coordinator, financial stability assessment
+  #        - Studies on mortgage lending, fintech, and consumer credit markets
+
+    - title: Visiting Lecturer
+      institution: Princeton University
+      year: 2023-2025
+      description:
+        - Taught Corporate Finance and Financial Accounting for Master in Finance program
 
 - title: Selected Publications
   type: time_table
@@ -36,6 +45,10 @@
     - title: "Bank Economic Capital"
       year: 2025
       description: Federal Reserve Bank of New York Staff Report No. 1144 (with Beverly Hirtle)
+
+    - title: "The Cost of Bank Regulatory Capital"
+      year: 2024
+      description: Review of Financial Studies (with João A. C. Santos)
 
     - title: "Import Competition and Household Debt"
       year: 2022
@@ -61,13 +74,13 @@
       year: 2017
       description: Journal of Finance (with Valentin Haddad and Erik Loualiche)
 
-- title: Research Interests
-  type: list
-  contents:
-    - Banking and financial intermediation
-    - Bank supervision and regulation
-    - Capital requirements and risk management
-    - Household finance and consumer credit
-    - Mortgage lending and fintech
-    - Private equity and leveraged buyouts
-    - Macroprudential policy
+# - title: Research Interests
+#   type: list
+#   contents:
+#     - Banking and financial intermediation
+#     - Bank supervision and regulation
+#     - Capital requirements and risk management
+#     - Household finance and consumer credit
+#     - Mortgage lending and fintech
+#     - Private equity and leveraged buyouts
+#     - Macroprudential policy
