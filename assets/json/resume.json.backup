@@ -6,21 +6,13 @@
     "email": "matthew.plosser@hey.com",
     "phone": "(646) 425-5917",
     "url": "https://mplosser.github.io/",
-    "summary": "Financial economist researching financial intermediation, household finance, and valuation.",
-    "location": {
-      "address": "350 Park Avenue",
-      "postalCode": "10019",
-      "city": "New York",
-      "countryCode": "US",
-      "region": "New York"
-    }
   },
   "work": [
     {
       "name": "Citadel LLC",
       "position": "Quantitative Researcher",
       "url": "https://www.citadel.com",
-      "startDate": "2025-01-01",
+      "startDate": "2025-10",
       "endDate": "",
       "summary": "Equity Model Research, EQR",
       "highlights": []
@@ -29,26 +21,26 @@
       "name": "Federal Reserve Bank of New York",
       "position": "Financial Research Advisor",
       "url": "https://www.newyorkfed.org",
-      "startDate": "2021-01-01",
-      "endDate": "2025-01-01",
-      "summary": "Research & Statistics Group; Financial Intermediation. Previously Research Officer (2018-21), Senior Economist (2017-18), Economist (2012-17).",
+      "startDate": "2021-07",
+      "endDate": "2025-10",
+      "summary": "Research & Statistics Group; Financial Intermediation and Money & Payments. Previously Research Officer (2018-21), Senior Economist (2017-18), Economist (2012-17).",
       "highlights": ["Financial Briefing Coordinator (2024-2025)", "PPNR Supervisory Modeling Team Lead (2018-2022)"]
     },
     {
       "name": "Princeton University",
-      "position": "Visiting Lecturer",
+      "position": "Visiting Lecturer in the Department of Economics",
       "url": "https://www.princeton.edu",
-      "startDate": "2023-01-01",
-      "endDate": "2025-01-01",
-      "summary": "Department of Economics, taught FIN502 Corporate Finance and Financial Accounting",
+      "startDate": "2023-01",
+      "endDate": "2025-06",
+      "summary": "Taught Corporate Finance and Financial Accounting for the MAster in Finance program",
       "highlights": []
     },
     {
       "name": "Scout Capital Management",
       "position": "Investment Associate - Healthcare",
       "url": "",
-      "startDate": "2003-01-01",
-      "endDate": "2006-01-01",
+      "startDate": "2003-07",
+      "endDate": "2006-07",
       "summary": "",
       "highlights": []
     },
@@ -56,8 +48,8 @@
       "name": "J.P. Morgan Securities",
       "position": "Investment Banking Analyst",
       "url": "https://www.jpmorgan.com",
-      "startDate": "2001-01-01",
-      "endDate": "2003-01-01",
+      "startDate": "2001-07",
+      "endDate": "2003-06",
       "summary": "Mergers & Acquisitions, Consumer/Healthcare",
       "highlights": []
     }
@@ -69,8 +61,8 @@
       "url": "https://www.chicagobooth.edu/",
       "area": "Economics and Finance",
       "studyType": "PhD, MBA",
-      "startDate": "2006-09-01",
-      "endDate": "2012-06-01",
+      "startDate": "2006-09",
+      "endDate": "2012-06",
       "score": "",
       "courses": ["Dissertation Chair: Prof. Anil Kashyap"]
     },
@@ -81,7 +73,7 @@
       "area": "Economics",
       "studyType": "A.B.",
       "startDate": "1997-09-01",
-      "endDate": "2001-06-01",
+      "endDate": "2001-06",
       "score": "",
       "courses": []
     }
