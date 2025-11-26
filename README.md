@@ -29,7 +29,9 @@ Personal academic website built with Jekyll and the al-folio theme, deployed on 
 
 ### Styling
 
-- **`_sass/_layout.scss`** - Custom CSS overrides (e.g., mobile profile photo sizing)
+- **`_sass/_layout.scss`** - Custom CSS overrides
+  - Profile image size (desktop): Line 44 `width: 25% !important;`
+  - Profile image size (mobile): Line 52 `width: 50% !important;`
 
 ## Navigation Structure
 

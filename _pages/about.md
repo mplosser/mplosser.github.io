@@ -30,7 +30,7 @@ This page provides access to my research and code.
 
 - [longform](longform/): publications and working papers
 - [shortform](shortform/): blogs and bitesize content
-- [repository](repository/): code and data
+- [repository](repository/): code, data, other materials
 - [freeform](freeform/): miscellany
 
 ---
