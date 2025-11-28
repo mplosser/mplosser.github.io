@@ -5,6 +5,7 @@ title: repository
 description:
 nav: true
 nav_order: 5
+nav_tooltip: Code, data, and supplementary materials
 ---
 
 ## Bank Economic Capital

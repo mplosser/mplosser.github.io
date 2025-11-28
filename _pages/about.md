@@ -3,6 +3,7 @@ layout: about
 title: readme
 permalink: /
 subtitle: Financial Economist
+nav_tooltip: Home page with bio and overview
 
 profile:
   align: right

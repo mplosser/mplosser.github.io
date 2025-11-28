@@ -48,7 +48,12 @@
 
           <!-- About -->
           <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/' | relative_url }}">
+            {% for p in site.pages %}
+              {% if p.permalink == '/' and p.nav_tooltip %}
+                {% assign about_tooltip = p.nav_tooltip %}
+              {% endif %}
+            {% endfor %}
+            <a class="nav-link" href="{{ '/' | relative_url }}"{% if about_tooltip %} title="{{ about_tooltip }}"{% endif %}>
               {{- about_title }}
               {% if page.permalink == '/' %}
                 <span class="sr-only">(current)</span>
@@ -107,7 +112,7 @@
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
-                  <a class="nav-link" href="{{ url | relative_url }}">
+                  <a class="nav-link" href="{{ url | relative_url }}"{% if p.nav_tooltip %} title="{{ p.nav_tooltip }}"{% endif %}>
                     {{- p.title }}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
