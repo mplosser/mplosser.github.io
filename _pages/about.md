@@ -3,7 +3,7 @@ layout: about
 title: readme
 permalink: /
 subtitle: Financial Economist
-nav_tooltip: Home page with bio and overview
+nav_tooltip: Overview
 
 profile:
   align: right
@@ -25,13 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher in Citadel's Equity Quantitative Research group. Previously, I spent over a decade at the Federal Reserve Bank of New York studying financial intermediation, household finance, and financial stability. My policy responsibilities included coordinating financial briefings for the NY Fed president, organizing the Financial Advisory Roundtable, and developing stress testing models. I have taught corporate finance at Princeton University as a Visiting Lecturer.
+I am a researcher in Citadel's Equity Quantitative Research group. Previously, I spent over a decade at the Federal Reserve Bank of New York investigating financial intermediation, household finance, and financial stability. My policy responsibilities included coordinating financial briefings for the NY Fed president, organizing the Financial Advisory Roundtable, and developing stress testing models. I have taught corporate finance at Princeton University as a Visiting Lecturer.
 
 This page provides access to my research and code.
 
 - [longform](longform/): publications and working papers
 - [shortform](shortform/): blogs and bitesize content
-- [repository](repository/): code, data, other materials
+- [repository](repository/): code, data, supplementary materials
 - [freeform](freeform/): miscellany
 
 ---

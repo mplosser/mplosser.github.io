@@ -5,5 +5,5 @@ title: freeform
 description:
 nav: true
 nav_order: 6
-nav_tooltip: Miscellaneous content
+nav_tooltip: Miscellany
 ---
