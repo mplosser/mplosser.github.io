@@ -31,7 +31,7 @@ This page provides access to my research and code.
 
 - [longform](longform/): publications and working papers
 - [shortform](shortform/): blogs and bitesize content
-- [repository](repository/): code, data, supplementary materials
+- [repository](repository/): data, code, supplementary materials
 - [freeform](freeform/): miscellany
 
 ---
