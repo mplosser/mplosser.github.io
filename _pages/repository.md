@@ -23,32 +23,34 @@ nav_tooltip: Code, data, and supplementary materials
 
 
 ## Data Acquisition Code
-Git repositories for the acquisition and construction of datasets
 
 #### Banking
 
-**call report (banks):** [<i class="fab fa-github"></i> data_call_report](https://github.com/mplosser/data_call_report)
+**commercial banks (call report):** [<i class="fab fa-github"></i> data_call_report](https://github.com/mplosser/data_call_report)
 
-**fr y-9c (BHCs):**
+**bank holding companies (fr y-9c):** [<i class="fab fa-github"></i> data_fry9c](https://github.com/mplosser/data_fry9c)
 
 **summary of deposits:** [<i class="fab fa-github"></i> data_sod](https://github.com/mplosser/data_sod)
 
-**failure:**
-
 **bank structure:** 
 
+**failures:**
 
-#### Interest Rates 
+#### Yield curves:
 
-**zero coupon yields:**
+**fed funds:**
 
-**par coupon yields:**
+**zero coupon:**
 
-**risk neutral yields:**
+**par coupon:**
 
-**corporate credit curve:**
+**risk neutral:**
+
+#### Corporate Spreads
 
 **corporate spreads:**
+
+**corporate credit curve:**
 
 #### Mortgages
 
