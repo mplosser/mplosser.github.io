@@ -8,11 +8,12 @@ nav_order: 5
 nav_tooltip: Code, data, and supplementary materials
 ---
 
-## Data Construction Repositories
+## Data Construction
+Git repositories for the acquisition and construction of data
 
-# Banking
+### Banking
 
-**call report (banks):** [<i class="fab fa-github"></i> View on GitHub](https://github.com/mplosser/data_call_report)
+**call report (banks):** [<i class="fab fa-github"></i> data_call_report](https://github.com/mplosser/data_call_report)
 
 **fr y-9c (BHCs):**
 
@@ -23,7 +24,7 @@ nav_tooltip: Code, data, and supplementary materials
 **bank structure:** 
 
 
-## Interest Rate Data
+### Interest Rates 
 
 **zero coupon yields:**
 
