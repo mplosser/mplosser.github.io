@@ -8,7 +8,21 @@ nav_order: 5
 nav_tooltip: Code, data, and supplementary materials
 ---
 
-## Data Construction
+
+## Bank Economic Capital
+
+**paper:** [bec_november.pdf](/assets/pdf/bec_november.pdf)
+
+**slides:** [bec_presentation.pdf](/assets/pdf/bec_presentation.pdf)
+
+**appendix:** coming soon
+
+**code:** coming soon
+
+**output:** coming soon
+
+
+## Data Acquisition Code
 Git repositories for the acquisition and construction of datasets
 
 #### Banking
@@ -36,20 +50,8 @@ Git repositories for the acquisition and construction of datasets
 
 **corporate spreads:**
 
-### Mortgages
+#### Mortgages
 
-** hmda:**
+**hmda:**
 
-** fnma:** 
-
-## Bank Economic Capital
-
-**paper:** [bec_november.pdf](/assets/pdf/bec_november.pdf)
-
-**slides:** [bec_presentation.pdf](/assets/pdf/bec_presentation.pdf)
-
-**appendix:** coming soon
-
-**output:** coming soon
-
-**code:** coming soon
+**fnma:** 
