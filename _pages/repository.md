@@ -31,7 +31,7 @@ Git repositories for the acquisition and construction of datasets
 
 **fr y-9c (BHCs):**
 
-**summary of deposits:** [<i class="fab fa-github"></i> data_call_report](https://github.com/mplosser/data_sod)
+**summary of deposits:** [<i class="fab fa-github"></i> data_sod](https://github.com/mplosser/data_sod)
 
 **failure:**
 
