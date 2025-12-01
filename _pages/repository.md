@@ -22,9 +22,9 @@ nav_tooltip: Code, data, and supplementary materials
 **output:** coming soon
 
 
-## Data Acquisition Code
+## Data Sources
 
-#### Banking
+#### Banks
 
 **commercial banks (call report):** [<i class="fab fa-github"></i> data_call_report](https://github.com/mplosser/data_call_report)
 
