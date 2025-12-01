@@ -28,7 +28,7 @@ nav_tooltip: Code, data, and supplementary materials
 
 **commercial banks (call report):** [<i class="fab fa-github"></i> data_call_report](https://github.com/mplosser/data_call_report)
 
-**bank holding companies (fr y-9c):** [<i class="fab fa-github"></i> data_fry9c](https://github.com/mplosser/data_fry9c)
+**bank holding companies (fr y-9):** [<i class="fab fa-github"></i> data_fry9](https://github.com/mplosser/data_fry9)
 
 **summary of deposits:** [<i class="fab fa-github"></i> data_sod](https://github.com/mplosser/data_sod)
 
