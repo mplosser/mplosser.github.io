@@ -32,9 +32,9 @@ nav_tooltip: Code, data, and supplementary materials
 
 **summary of deposits:** [<i class="fab fa-github"></i> data_sod](https://github.com/mplosser/data_sod)
 
-**bank structure:** 
+**bank structure:** [<i class="fab fa-github"></i> data_nic](https://github.com/mplosser/data_nic) coming soon
 
-**failures:**
+**failures:** [<i class="fab fa-github"></i> data_failure](https://github.com/mplosser/data_failure) coming soon
 
 #### Yield curves:
 
