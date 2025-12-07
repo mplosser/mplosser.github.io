@@ -27,15 +27,15 @@ nav_tooltip: Code, data, and supplementary materials
 
 ### Data Sources
 
-#### Banks
+#### Bank Regulatory Data
 
 **commercial banks (ffiec 031/041, ffiec 002, frb2886b):** [<i class="fab fa-github"></i> data_call_report](https://github.com/mplosser/data_call_report)
 
 **bank holding companies (fr y-9c, y-9lp, y-sp):** [<i class="fab fa-github"></i> data_fry9](https://github.com/mplosser/data_fry9)
 
-**summary of deposit:** [<i class="fab fa-github"></i> data_sod](https://github.com/mplosser/data_sod)
-
 **bank structure (ownership, transformations):** [<i class="fab fa-github"></i> data_nic](https://github.com/mplosser/data_nic) 
+
+**summary of deposits:** [<i class="fab fa-github"></i> data_sod](https://github.com/mplosser/data_sod)
 
 **other fdic data (failures, institutions):** [<i class="fab fa-github"></i> data_fdic](https://github.com/mplosser/data_fdic)
 
