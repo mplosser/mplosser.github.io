@@ -37,9 +37,9 @@ nav_tooltip: Code, data, and supplementary materials
 
 **summary of deposit:** [<i class="fab fa-github"></i> data_sod](https://github.com/mplosser/data_sod)
 
-**bank structure:** [<i class="fab fa-github"></i> data_nic](https://github.com/mplosser/data_nic) coming soon
+**bank structure (ownership, transformations):** [<i class="fab fa-github"></i> data_nic](https://github.com/mplosser/data_nic) 
 
-**failures:** [<i class="fab fa-github"></i> data_failure](https://github.com/mplosser/data_failure) coming soon
+**other fdic data (failures, institutions):** [<i class="fab fa-github"></i> data_fdic](https://github.com/mplosser/data_fdic)
 
 #### Yields
 
@@ -47,9 +47,7 @@ nav_tooltip: Code, data, and supplementary materials
 
 **fed funds:**
 
-**constant maturity:**
-
-**risk neutral:**
+**yield curves (zero coupon, par coupon, risk neutral):**
 
 **corporate spreads:**
 
