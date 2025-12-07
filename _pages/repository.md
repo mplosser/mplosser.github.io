@@ -23,9 +23,7 @@ nav_tooltip: Code, data, and supplementary materials
 
 ### Bank Reserve Holdings
 
-**blog:**
-
-**code:**
+**code:** coming soon
 
 ### Data Sources
 
