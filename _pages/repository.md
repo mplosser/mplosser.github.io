@@ -19,7 +19,9 @@ nav_tooltip: Code, data, and supplementary materials
 
 **code:** coming soon
 
-**output:** coming soon
+**economic capital output:** coming soon
+
+**estimated deposit betas:** coming soon
 
 ### Bank Reserve Holdings
 
@@ -39,15 +41,13 @@ nav_tooltip: Code, data, and supplementary materials
 
 **other fdic data (failures, institutions):** [<i class="fab fa-github"></i> data_fdic](https://github.com/mplosser/data_fdic)
 
-#### Yields
+#### Yields & Credit Spreads
 
 <!-- Decompose into daily, monthly, quarterly, and averages -->
 
-**fed funds:**
+**yield curves (constant maturity, zero coupon, risk neutral):** [<i class="fab fa-github"></i> data_yields](https://github.com/mplosser/data_yields)
 
-**yield curves (zero coupon, par coupon, risk neutral):**
-
-**corporate spreads:**
+**credit spreads:** 
 
 **corporate credit curve:**
 
