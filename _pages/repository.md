@@ -47,9 +47,7 @@ nav_tooltip: Code, data, and supplementary materials
 
 **yield curves (constant maturity, zero coupon, risk neutral):** [<i class="fab fa-github"></i> data_yields](https://github.com/mplosser/data_yields)
 
-**credit spreads:** 
-
-**corporate credit curve:**
+**credit spreads and corporate curve:** [<i class="fab fa-github"></i> data_credit](https://github.com/mplosser/data_credit)
 
 <!-- 
 #### Mortgages
