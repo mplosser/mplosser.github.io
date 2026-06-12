@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-12'
 papers:
   GDVR6xsAAAAJ:35N4QoGY0k4C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Who Pays What First? Debt Prioritization during the COVID Pandemic
     year: '2021'
   GDVR6xsAAAAJ:5nxA0vEk-isC:
-    citations: 1664
+    citations: 1684
     title: The role of technology in mortgage lending
     year: '2019'
   GDVR6xsAAAAJ:70eg2SAEIzsC:
@@ -46,7 +46,7 @@ papers:
     title: Does CFPB oversight crimp credit?
     year: '2021'
   GDVR6xsAAAAJ:LkGwnXOMwfcC:
-    citations: 92
+    citations: 93
     title: Import competition and household debt
     year: '2022'
   GDVR6xsAAAAJ:M3NEmzRMIkIC:
@@ -78,7 +78,7 @@ papers:
     title: What Drives Buyout Booms and Busts?
     year: '2015'
   GDVR6xsAAAAJ:R3hNpaxXUhUC:
-    citations: 419
+    citations: 422
     title: Bank liquidity provision across the firm size distribution
     year: '2022'
   GDVR6xsAAAAJ:RGFaLdJalmkC:
@@ -94,7 +94,7 @@ papers:
     title: Bank Economic Capital
     year: '2025'
   GDVR6xsAAAAJ:Se3iqnhoufwC:
-    citations: 78
+    citations: 79
     title: 'Macroprudential policy and the revolving door of risk: Lessons from leveraged lending guidance'
     year: '2018'
   GDVR6xsAAAAJ:TFP_iSt0sucC:
@@ -154,7 +154,7 @@ papers:
     title: 'Weathering the Storm: Who Can Access Credit in a Pandemic?'
     year: '2020'
   GDVR6xsAAAAJ:hMod-77fHWUC:
-    citations: 7
+    citations: 8
     title: Bank funding during the current monetary policy tightening cycle
     year: '2023'
   GDVR6xsAAAAJ:isC4tDSrTZIC:
@@ -162,7 +162,7 @@ papers:
     title: 'Banking Supervision: The Perspective from Economics Beverly Hirtle1 Federal Reserve Bank of New York'
     year: '2020'
   GDVR6xsAAAAJ:kNdYIx-mwKoC:
-    citations: 29
+    citations: 30
     title: The cost of bank regulatory capital
     year: '2024'
   GDVR6xsAAAAJ:k_IJM867U9cC:
@@ -173,6 +173,10 @@ papers:
     citations: 2
     title: Reserves and where to find them
     year: '2025'
+  GDVR6xsAAAAJ:ldfaerwXgEUC:
+    citations: 0
+    title: DP12961 The Role of Technology in Mortgage Lending
+    year: '2018'
   GDVR6xsAAAAJ:qxL8FJ1GzNcC:
     citations: 2
     title: When Debts Compete, Which Wins?
@@ -186,7 +190,7 @@ papers:
     title: 'Bank heterogeneity and capital allocation: Evidence from''fracking''shocks'
     year: '2014'
   GDVR6xsAAAAJ:u5HHmVD_uO8C:
-    citations: 78
+    citations: 79
     title: Buyout activity and asset prices
     year: '2011'
   GDVR6xsAAAAJ:ufrVoPGSRksC:
