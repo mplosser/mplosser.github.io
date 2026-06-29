@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-29'
 papers:
   GDVR6xsAAAAJ:35N4QoGY0k4C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Who Pays What First? Debt Prioritization during the COVID Pandemic
     year: '2021'
   GDVR6xsAAAAJ:5nxA0vEk-isC:
-    citations: 1691
+    citations: 1723
     title: The role of technology in mortgage lending
     year: '2019'
   GDVR6xsAAAAJ:70eg2SAEIzsC:
@@ -38,17 +38,21 @@ papers:
     title: How do interest rates (and depositors) impact measures of bank value?
     year: '2023'
   GDVR6xsAAAAJ:J_g5lzvAfSwC:
-    citations: 0
+    citations: 1
     title: When the Household Pie Shrinks, Who Gets Their Slice?
     year: '2025'
   GDVR6xsAAAAJ:KlAtU1dfN6UC:
-    citations: 41
+    citations: 42
     title: Does CFPB oversight crimp credit?
     year: '2021'
   GDVR6xsAAAAJ:LkGwnXOMwfcC:
     citations: 93
     title: Import competition and household debt
     year: '2022'
+  GDVR6xsAAAAJ:M05iB0D1s5AC:
+    citations: 0
+    title: "\u05D3\u05DC\u05E7\u05EA \u05E7\u05E8\u05D5\u05DD \u05D4\u05DE\u05D5\u05D7 \u05DE\u05D1\u05D5\u05D2\u05E8\u05D9\u05DD \u05EA\u05E1\u05DE\u05D9\u05E0\u05D9\u05DD\u200E"
+    year: '2025'
   GDVR6xsAAAAJ:M3NEmzRMIkIC:
     citations: 0
     title: Does the CRA Increase Household Access to Credit?
@@ -78,7 +82,7 @@ papers:
     title: What Drives Buyout Booms and Busts?
     year: '2015'
   GDVR6xsAAAAJ:R3hNpaxXUhUC:
-    citations: 424
+    citations: 428
     title: Bank liquidity provision across the firm size distribution
     year: '2022'
   GDVR6xsAAAAJ:RGFaLdJalmkC:
@@ -118,7 +122,7 @@ papers:
     title: 'Supervising large, complex financial institutions: What do supervisors do?'
     year: '2015'
   GDVR6xsAAAAJ:W7OEmFMy1HYC:
-    citations: 25
+    citations: 26
     title: Bank monitoring
     year: '2016'
   GDVR6xsAAAAJ:Wp0gIr-vW9MC:
@@ -153,6 +157,10 @@ papers:
     citations: 1
     title: 'Weathering the Storm: Who Can Access Credit in a Pandemic?'
     year: '2020'
+  GDVR6xsAAAAJ:g5m5HwL7SMYC:
+    citations: 0
+    title: gaito. shop
+    year: '2025'
   GDVR6xsAAAAJ:hMod-77fHWUC:
     citations: 8
     title: Bank funding during the current monetary policy tightening cycle
@@ -162,7 +170,7 @@ papers:
     title: 'Banking Supervision: The Perspective from Economics Beverly Hirtle1 Federal Reserve Bank of New York'
     year: '2020'
   GDVR6xsAAAAJ:kNdYIx-mwKoC:
-    citations: 30
+    citations: 31
     title: The cost of bank regulatory capital
     year: '2024'
   GDVR6xsAAAAJ:k_IJM867U9cC:
@@ -194,7 +202,7 @@ papers:
     title: Buyout activity and asset prices
     year: '2011'
   GDVR6xsAAAAJ:ufrVoPGSRksC:
-    citations: 324
+    citations: 328
     title: The impact of supervision on bank performance
     year: '2020'
   GDVR6xsAAAAJ:vV6vV6tmYwMC:
