@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-08'
 papers:
   GDVR6xsAAAAJ:35N4QoGY0k4C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Who Pays What First? Debt Prioritization during the COVID Pandemic
     year: '2021'
   GDVR6xsAAAAJ:5nxA0vEk-isC:
-    citations: 1723
+    citations: 1733
     title: The role of technology in mortgage lending
     year: '2019'
   GDVR6xsAAAAJ:70eg2SAEIzsC:
@@ -33,6 +33,10 @@ papers:
     citations: 5
     title: "Deposits and the March 2023 Banking Crisis\u2014A Retrospective"
     year: '2024'
+  GDVR6xsAAAAJ:HoB7MX3m0LUC:
+    citations: 0
+    title: "\u30DD\u30ED\u30EA \u4E2D\u5B66\u751F"
+    year: '2025'
   GDVR6xsAAAAJ:JV2RwH3_ST0C:
     citations: 5
     title: How do interest rates (and depositors) impact measures of bank value?
@@ -42,17 +46,13 @@ papers:
     title: When the Household Pie Shrinks, Who Gets Their Slice?
     year: '2025'
   GDVR6xsAAAAJ:KlAtU1dfN6UC:
-    citations: 42
+    citations: 43
     title: Does CFPB oversight crimp credit?
     year: '2021'
   GDVR6xsAAAAJ:LkGwnXOMwfcC:
-    citations: 93
+    citations: 94
     title: Import competition and household debt
     year: '2022'
-  GDVR6xsAAAAJ:M05iB0D1s5AC:
-    citations: 0
-    title: "\u05D3\u05DC\u05E7\u05EA \u05E7\u05E8\u05D5\u05DD \u05D4\u05DE\u05D5\u05D7 \u05DE\u05D1\u05D5\u05D2\u05E8\u05D9\u05DD \u05EA\u05E1\u05DE\u05D9\u05E0\u05D9\u05DD\u200E"
-    year: '2025'
   GDVR6xsAAAAJ:M3NEmzRMIkIC:
     citations: 0
     title: Does the CRA Increase Household Access to Credit?
@@ -62,7 +62,7 @@ papers:
     title: Analyzing the Effects of CFPB Oversight
     year: '2018'
   GDVR6xsAAAAJ:MXK_kJrjxJIC:
-    citations: 221
+    citations: 222
     title: "Banks\u2019 incentives and inconsistent risk models"
     year: '2018'
   GDVR6xsAAAAJ:NMxIlDl6LWMC:
@@ -82,7 +82,7 @@ papers:
     title: What Drives Buyout Booms and Busts?
     year: '2015'
   GDVR6xsAAAAJ:R3hNpaxXUhUC:
-    citations: 428
+    citations: 432
     title: Bank liquidity provision across the firm size distribution
     year: '2022'
   GDVR6xsAAAAJ:RGFaLdJalmkC:
@@ -101,8 +101,12 @@ papers:
     citations: 79
     title: 'Macroprudential policy and the revolving door of risk: Lessons from leveraged lending guidance'
     year: '2018'
+  GDVR6xsAAAAJ:SeFeTyx0c_EC:
+    citations: 0
+    title: porunohub gif
+    year: '2025'
   GDVR6xsAAAAJ:TFP_iSt0sucC:
-    citations: 8
+    citations: 10
     title: How Do Deposit Rates Respond to Monetary Policy?
     year: '2022'
   GDVR6xsAAAAJ:TQgYirikUcIC:
@@ -110,7 +114,7 @@ papers:
     title: 'The Banking Industry and COVID-19: Lifeline or Life Support?'
     year: '2020'
   GDVR6xsAAAAJ:Tyk-4Ss8FVUC:
-    citations: 69
+    citations: 70
     title: 'Supervising large, complex financial institutions: What do supervisors do?'
     year: '2015'
   GDVR6xsAAAAJ:ULOm3_A8WrAC:
@@ -146,7 +150,7 @@ papers:
     title: What Do Banks Do with All That\\" Fracking\\" Money?
     year: '2014'
   GDVR6xsAAAAJ:blknAaTinKkC:
-    citations: 18
+    citations: 19
     title: 'Deposit betas: Up, up, and away?'
     year: '2023'
   GDVR6xsAAAAJ:dhFuZR0502QC:
@@ -157,10 +161,6 @@ papers:
     citations: 1
     title: 'Weathering the Storm: Who Can Access Credit in a Pandemic?'
     year: '2020'
-  GDVR6xsAAAAJ:g5m5HwL7SMYC:
-    citations: 0
-    title: gaito. shop
-    year: '2025'
   GDVR6xsAAAAJ:hMod-77fHWUC:
     citations: 8
     title: Bank funding during the current monetary policy tightening cycle
@@ -170,7 +170,7 @@ papers:
     title: 'Banking Supervision: The Perspective from Economics Beverly Hirtle1 Federal Reserve Bank of New York'
     year: '2020'
   GDVR6xsAAAAJ:kNdYIx-mwKoC:
-    citations: 31
+    citations: 33
     title: The cost of bank regulatory capital
     year: '2024'
   GDVR6xsAAAAJ:k_IJM867U9cC:
@@ -202,7 +202,7 @@ papers:
     title: Buyout activity and asset prices
     year: '2011'
   GDVR6xsAAAAJ:ufrVoPGSRksC:
-    citations: 328
+    citations: 329
     title: The impact of supervision on bank performance
     year: '2020'
   GDVR6xsAAAAJ:vV6vV6tmYwMC:
