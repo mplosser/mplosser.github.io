@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-31'
 papers:
   GDVR6xsAAAAJ:35N4QoGY0k4C:
     citations: 0
@@ -44,7 +44,7 @@ papers:
   GDVR6xsAAAAJ:KlAtU1dfN6UC:
     citations: 44
     title: Does CFPB oversight crimp credit?
-    year: '2021'
+    year: '2020'
   GDVR6xsAAAAJ:LkGwnXOMwfcC:
     citations: 94
     title: Import competition and household debt
@@ -78,9 +78,9 @@ papers:
     title: What Drives Buyout Booms and Busts?
     year: '2015'
   GDVR6xsAAAAJ:R3hNpaxXUhUC:
-    citations: 435
+    citations: 436
     title: Bank liquidity provision across the firm size distribution
-    year: '2022'
+    year: '2020'
   GDVR6xsAAAAJ:RGFaLdJalmkC:
     citations: 1
     title: The Cost of Regulatory Capital
@@ -90,13 +90,13 @@ papers:
     title: Did the supervisory guidance on leveraged lending work?
     year: '2016'
   GDVR6xsAAAAJ:RYcK_YlVTxYC:
-    citations: 2
-    title: Bank Economic Capital
+    citations: 1
+    title: Bank economic capital
     year: '2025'
   GDVR6xsAAAAJ:Se3iqnhoufwC:
     citations: 81
     title: 'Macroprudential policy and the revolving door of risk: Lessons from leveraged lending guidance'
-    year: '2018'
+    year: '2017'
   GDVR6xsAAAAJ:TFP_iSt0sucC:
     citations: 10
     title: How Do Deposit Rates Respond to Monetary Policy?
@@ -108,7 +108,7 @@ papers:
   GDVR6xsAAAAJ:Tyk-4Ss8FVUC:
     citations: 70
     title: 'Supervising large, complex financial institutions: What do supervisors do?'
-    year: '2015'
+    year: '2017'
   GDVR6xsAAAAJ:ULOm3_A8WrAC:
     citations: 1
     title: 'Supervising large, complex financial companies: what do supervisors do?'
@@ -154,7 +154,7 @@ papers:
     title: 'Weathering the Storm: Who Can Access Credit in a Pandemic?'
     year: '2020'
   GDVR6xsAAAAJ:hMod-77fHWUC:
-    citations: 8
+    citations: 9
     title: Bank funding during the current monetary policy tightening cycle
     year: '2023'
   GDVR6xsAAAAJ:isC4tDSrTZIC:
@@ -194,9 +194,9 @@ papers:
     title: Buyout activity and asset prices
     year: '2011'
   GDVR6xsAAAAJ:ufrVoPGSRksC:
-    citations: 332
+    citations: 335
     title: The impact of supervision on bank performance
-    year: '2020'
+    year: '2019'
   GDVR6xsAAAAJ:vV6vV6tmYwMC:
     citations: 0
     title: 'Bank Liquidity Provision Across Firm Sizes: Evidence from the COVID-19 Recession'
