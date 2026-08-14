@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-14'
 papers:
   GDVR6xsAAAAJ:35N4QoGY0k4C:
     citations: 0
@@ -10,17 +10,13 @@ papers:
     title: How Is Technology Changing the Mortgage Market?
     year: '2018'
   GDVR6xsAAAAJ:4JMBOYKVnBMC:
-    citations: 1
+    citations: 2
     title: Who Pays What First? Debt Prioritization during the COVID Pandemic
     year: '2021'
   GDVR6xsAAAAJ:5nxA0vEk-isC:
-    citations: 1745
+    citations: 1746
     title: The role of technology in mortgage lending
     year: '2019'
-  GDVR6xsAAAAJ:70eg2SAEIzsC:
-    citations: 0
-    title: 'Economic Capital: A Better Measure of Bank Failure?'
-    year: '2025'
   GDVR6xsAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: A primer on unconventional energy and deposit shocks
@@ -38,15 +34,15 @@ papers:
     title: How do interest rates (and depositors) impact measures of bank value?
     year: '2023'
   GDVR6xsAAAAJ:J_g5lzvAfSwC:
-    citations: 1
+    citations: 2
     title: When the Household Pie Shrinks, Who Gets Their Slice?
     year: '2025'
   GDVR6xsAAAAJ:KlAtU1dfN6UC:
-    citations: 44
+    citations: 46
     title: Does CFPB oversight crimp credit?
-    year: '2020'
+    year: '2021'
   GDVR6xsAAAAJ:LkGwnXOMwfcC:
-    citations: 94
+    citations: 93
     title: Import competition and household debt
     year: '2022'
   GDVR6xsAAAAJ:M3NEmzRMIkIC:
@@ -58,7 +54,7 @@ papers:
     title: Analyzing the Effects of CFPB Oversight
     year: '2018'
   GDVR6xsAAAAJ:MXK_kJrjxJIC:
-    citations: 223
+    citations: 226
     title: "Banks\u2019 incentives and inconsistent risk models"
     year: '2018'
   GDVR6xsAAAAJ:NMxIlDl6LWMC:
@@ -78,9 +74,9 @@ papers:
     title: What Drives Buyout Booms and Busts?
     year: '2015'
   GDVR6xsAAAAJ:R3hNpaxXUhUC:
-    citations: 436
+    citations: 434
     title: Bank liquidity provision across the firm size distribution
-    year: '2020'
+    year: '2022'
   GDVR6xsAAAAJ:RGFaLdJalmkC:
     citations: 1
     title: The Cost of Regulatory Capital
@@ -90,13 +86,13 @@ papers:
     title: Did the supervisory guidance on leveraged lending work?
     year: '2016'
   GDVR6xsAAAAJ:RYcK_YlVTxYC:
-    citations: 1
-    title: Bank economic capital
+    citations: 3
+    title: Bank Economic Capital
     year: '2025'
   GDVR6xsAAAAJ:Se3iqnhoufwC:
-    citations: 81
+    citations: 85
     title: 'Macroprudential policy and the revolving door of risk: Lessons from leveraged lending guidance'
-    year: '2017'
+    year: '2018'
   GDVR6xsAAAAJ:TFP_iSt0sucC:
     citations: 10
     title: How Do Deposit Rates Respond to Monetary Policy?
@@ -108,7 +104,7 @@ papers:
   GDVR6xsAAAAJ:Tyk-4Ss8FVUC:
     citations: 70
     title: 'Supervising large, complex financial institutions: What do supervisors do?'
-    year: '2017'
+    year: '2015'
   GDVR6xsAAAAJ:ULOm3_A8WrAC:
     citations: 1
     title: 'Supervising large, complex financial companies: what do supervisors do?'
@@ -118,7 +114,7 @@ papers:
     title: 'Supervising large, complex financial institutions: What do supervisors do?'
     year: '2015'
   GDVR6xsAAAAJ:W7OEmFMy1HYC:
-    citations: 26
+    citations: 27
     title: Bank monitoring
     year: '2016'
   GDVR6xsAAAAJ:Wp0gIr-vW9MC:
@@ -134,7 +130,7 @@ papers:
     title: How Does Supervision Affect Bank Performance during Downturns?
     year: '2020'
   GDVR6xsAAAAJ:_FxGoFyzp5QC:
-    citations: 46
+    citations: 47
     title: The federal reserve and market confidence
     year: '2016'
   GDVR6xsAAAAJ:aqlVkmm33-oC:
@@ -142,7 +138,7 @@ papers:
     title: What Do Banks Do with All That\\" Fracking\\" Money?
     year: '2014'
   GDVR6xsAAAAJ:blknAaTinKkC:
-    citations: 19
+    citations: 21
     title: 'Deposit betas: Up, up, and away?'
     year: '2023'
   GDVR6xsAAAAJ:dhFuZR0502QC:
@@ -162,7 +158,7 @@ papers:
     title: 'Banking Supervision: The Perspective from Economics Beverly Hirtle1 Federal Reserve Bank of New York'
     year: '2020'
   GDVR6xsAAAAJ:kNdYIx-mwKoC:
-    citations: 35
+    citations: 39
     title: The cost of bank regulatory capital
     year: '2024'
   GDVR6xsAAAAJ:k_IJM867U9cC:
@@ -178,7 +174,7 @@ papers:
     title: DP12961 The Role of Technology in Mortgage Lending
     year: '2018'
   GDVR6xsAAAAJ:qxL8FJ1GzNcC:
-    citations: 2
+    citations: 4
     title: When Debts Compete, Which Wins?
     year: '2017'
   GDVR6xsAAAAJ:r0BpntZqJG4C:
@@ -190,13 +186,13 @@ papers:
     title: 'Bank heterogeneity and capital allocation: Evidence from''fracking''shocks'
     year: '2014'
   GDVR6xsAAAAJ:u5HHmVD_uO8C:
-    citations: 81
+    citations: 84
     title: Buyout activity and asset prices
     year: '2011'
   GDVR6xsAAAAJ:ufrVoPGSRksC:
-    citations: 335
+    citations: 333
     title: The impact of supervision on bank performance
-    year: '2019'
+    year: '2020'
   GDVR6xsAAAAJ:vV6vV6tmYwMC:
     citations: 0
     title: 'Bank Liquidity Provision Across Firm Sizes: Evidence from the COVID-19 Recession'
