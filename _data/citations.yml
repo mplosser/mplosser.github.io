@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-07'
 papers:
   GDVR6xsAAAAJ:35N4QoGY0k4C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Who Pays What First? Debt Prioritization during the COVID Pandemic
     year: '2021'
   GDVR6xsAAAAJ:5nxA0vEk-isC:
-    citations: 1761
+    citations: 1780
     title: The role of technology in mortgage lending
     year: '2019'
   GDVR6xsAAAAJ:9yKSN-GCB0IC:
@@ -42,7 +42,7 @@ papers:
     title: Does CFPB oversight crimp credit?
     year: '2021'
   GDVR6xsAAAAJ:LkGwnXOMwfcC:
-    citations: 92
+    citations: 93
     title: Import competition and household debt
     year: '2022'
   GDVR6xsAAAAJ:M3NEmzRMIkIC:
@@ -74,7 +74,7 @@ papers:
     title: What Drives Buyout Booms and Busts?
     year: '2015'
   GDVR6xsAAAAJ:R3hNpaxXUhUC:
-    citations: 435
+    citations: 438
     title: Bank liquidity provision across the firm size distribution
     year: '2022'
   GDVR6xsAAAAJ:RGFaLdJalmkC:
@@ -86,7 +86,7 @@ papers:
     title: Did the supervisory guidance on leveraged lending work?
     year: '2016'
   GDVR6xsAAAAJ:RYcK_YlVTxYC:
-    citations: 3
+    citations: 4
     title: Bank Economic Capital
     year: '2025'
   GDVR6xsAAAAJ:Se3iqnhoufwC:
@@ -141,6 +141,10 @@ papers:
     citations: 21
     title: 'Deposit betas: Up, up, and away?'
     year: '2023'
+  GDVR6xsAAAAJ:dfsIfKJdRG4C:
+    citations: 0
+    title: "\u0633\u0643\u0633 \u0645\u064A\u0631\u0627 \u0627\u0644\u0646\u0648\u0631\u0627\u064A\u200E"
+    year: '2025'
   GDVR6xsAAAAJ:dhFuZR0502QC:
     citations: 0
     title: The Effect of Fed Funds Rate Hikes on Consumer Borrowing Costs
@@ -166,7 +170,7 @@ papers:
     title: "Does the Community Reinvestment Act improve consumers\u2019 access to credit?"
     year: '2023'
   GDVR6xsAAAAJ:lSLTfruPkqcC:
-    citations: 2
+    citations: 3
     title: Reserves and where to find them
     year: '2025'
   GDVR6xsAAAAJ:ldfaerwXgEUC:
@@ -190,7 +194,7 @@ papers:
     title: Buyout activity and asset prices
     year: '2011'
   GDVR6xsAAAAJ:ufrVoPGSRksC:
-    citations: 336
+    citations: 337
     title: The impact of supervision on bank performance
     year: '2020'
   GDVR6xsAAAAJ:vV6vV6tmYwMC:
