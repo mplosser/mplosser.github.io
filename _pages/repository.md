@@ -55,3 +55,7 @@ nav_tooltip: Code, data, and supplementary materials
 **hmda:**
 
 **fnma:**  -->
+
+### Tools
+
+**time-consistent bank panels:** [<i class="fab fa-github"></i> bankpanel](https://github.com/mplosser/bankpanel)
