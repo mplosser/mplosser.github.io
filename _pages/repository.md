@@ -19,9 +19,9 @@ nav_tooltip: Code, data, and supplementary materials
 
 **code:** coming soon
 
-**economic capital output:** [bec_economic_capital.csv.zip](/assets/data/bec/bec_economic_capital.csv.zip) (bank-quarter, 1997Q2–2025Q1; EC, R-EC and their asset and liability components) · [data dictionary](/assets/data/bec/bec_data_dictionary.csv)
+**economic capital output:** [bec_economic_capital.csv.zip](/assets/data/bec/bec_economic_capital.csv.zip) (1997Q2–2025Q1)
 
-**estimated deposit betas:** [bec_deposit_betas.csv.zip](/assets/data/bec/bec_deposit_betas.csv.zip) (bank-quarter, 1997Q2–2025Q1; domestic and foreign-office, normal and run scenario) · [data dictionary](/assets/data/bec/bec_data_dictionary.csv)
+**estimated deposit betas:** [bec_deposit_betas.csv.zip](/assets/data/bec/bec_deposit_betas.csv.zip) (1997Q2–2025Q1)
 
 ### Bank Reserve Holdings
 
